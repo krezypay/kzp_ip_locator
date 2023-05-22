@@ -1,0 +1,19 @@
+{
+  "name": "mds/ip_locator",
+  "type": "library",
+  "scripts": {
+    "demo": "php example/demo.php"
+  },
+  "autoload": {
+    "psr-4": {
+      "Mds\\IpLocator\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Louis Midson LAJEANTY",
+      "email": "louismidsonlajeanty@gmail.com"
+    }
+  ],
+  "require": {}
+}
